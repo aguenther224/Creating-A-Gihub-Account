@@ -1,0 +1,73 @@
+---
+title: "Creating_A_GitHub_Account"
+author: "Alex Guenther"
+date: "12/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+## Week 1)
+## Predictive Modeling & Processes
+# - The stages of a Data Science Project
+# - Supervised vs Unsupervised Learning
+```
+
+```{r}
+## Week 2)
+## Data Exploration
+# - Summary statistics in R
+# - ggplot is great for visualization in R
+```
+
+
+```{r}
+## Week 3)
+## Linear Regression
+# - Linear regression should be the first method used
+# - Coefficients are a good way of getting an idea of importance (so long as variables are normalized or scaled)
+```
+
+
+```{r}
+## Week 4)
+## Classification
+# - Logistic Regression is superior to linear regression in Categorical problems
+# - A good way to assess a model is determine if it is life or death, or miscategorizing a picture
+```
+
+
+```{r}
+## Week 5)
+## Generalized Linear Models
+# - Poisson regression is used for total number of future events
+# - Gamma regression is used to determine time until a specific event
+```
+
+
+
+```{r}
+## Week 6)
+## Tree Based Models
+# - cv.tree(tree_model) is a great way to assess cross validation of different nodes
+# - Trees are a great way to visualize data in layman's terms
+```
+
+
+```{r}
+## Week 7)
+## Unsupervised Models
+# - k-means clustering is one of the most popular unsupervised learning methods
+# - library(fpm) utilizes plotcluster which is a great way to visualize it
+```
+
+
+```{r}
+## Week 8)
+## Delivering Results
+# - Commenting code is imperative to making programs understandable to audiences
+# - Github is a more comprehensive way to preserve progress without having to save files datetime_posted
+```
